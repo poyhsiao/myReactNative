@@ -1,0 +1,14 @@
+{
+  "name": "myReactNative",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev-android": "react-native run-android",
+    "dev-ios": "react-native run-ios",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "0.31.0"
+  }
+}
